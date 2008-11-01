@@ -16,7 +16,11 @@ no_index:
     - inc
     - t
 requires:
+  JSON::XS: 0
+  LWP::UserAgent: 0
+  Moose: 0
+  URI: 0
   perl: 5.8.1
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02

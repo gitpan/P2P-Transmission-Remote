@@ -2,7 +2,7 @@ package P2P::Transmission::Remote;
 
 use strict;
 use 5.8.1;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Carp;
 use JSON::XS;
